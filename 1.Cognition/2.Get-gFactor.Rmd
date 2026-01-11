@@ -287,7 +287,7 @@ for (i in indices) {
 
 # Get g-factor
 ```{r}
-save_path <- '/media/hcs-sci-psy-narun/IBu/UK_BB/brainbody/cognition/folds/'
+save_path <- '/UK_BB/brainbody/cognition/folds/'
 for (i in 0:4) {
   model <- get(paste0('model_', i, '_fit'))
   train_data <- get(paste0("train_", i))
@@ -379,3 +379,4 @@ In standardized output (what="std"), these are the residual variances after acco
 
 
 This gives the average proportion of variance explained across all observed variables
+
