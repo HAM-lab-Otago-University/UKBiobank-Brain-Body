@@ -13,7 +13,7 @@
 - [**NumPy**](https://numpy.org/)
 - [**SciPy**](https://scipy.org/)
 - [**Pandas**](https://pandas.pydata.org/)
-- [**Scikit-Learn**](https://nipy.org/nibabel/gettingstarted.html](https://pypi.org/project/scikit-learn/)
+- [**Scikit-Learn**](https://pypi.org/project/scikit-learn/)
 - [**XGBoost**](https://xgboost.readthedocs.io/en/latest/python/index.html)
 - [**NiBabel**](https://nipy.org/nibabel/gettingstarted.html)
 - [**Nilearn**](https://nilearn.github.io/stable/index.html)
