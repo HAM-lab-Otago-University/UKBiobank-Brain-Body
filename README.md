@@ -7,7 +7,7 @@
 - **Preprint:** [medRxiv]([https://doi.org/10.1101/2023.03.10.532036)
 
 > **Citation:**
-> Buianova I., Pat N. Exploring the link between body physiology and cognition: the role of the brain and ageing (peer review completed; revisions in progress at npj Aging). medRxiv. 2026. DOI: 10.64898/2026.01.13.26343950<img width="468" height="34" alt="image" src="https://github.com/user-attachments/assets/09353c78-9ee6-4000-b90b-d1c8d4e70d80" />
+> Buianova I., Pat N. Exploring the link between body physiology and cognition: the role of the brain and aging. medRxiv. 2026. DOI: 10.64898/2026.01.13.26343950
 
 ### Python packages used in the study:
 - [**NumPy**](https://numpy.org/)
