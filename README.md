@@ -4,7 +4,7 @@
 - **Title:** Exploring the Link Between Body Physiology and Cognition: The Role of the Brain and Aging
 - **Authors:** Irina Buianova, Narun Pat
 - **Year:** 2026
-- **Preprint:** [medRxiv]([https://doi.org/10.1101/2023.03.10.532036)
+- **Preprint:** [medRxiv](https://doi.org/10.1101/2023.03.10.532036)
 
 > **Citation:**
 > Buianova I., Pat N. Exploring the link between body physiology and cognition: the role of the brain and aging. medRxiv. 2026. DOI: 10.64898/2026.01.13.26343950
